@@ -13,12 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=one11on&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <h1 align="center">👋 Hi, I'm <strong><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Angish+Chaudhary" /></strong></h1>
 <h3 align="center">🚀 Web Developer • Web Pentester • AI Projects</h3>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🔥 About Me  
 - 🌐 Currently working on **Web Development + Web Penetration Testing**  
@@ -27,7 +31,9 @@
 - ⚙️ I build **Cybersecurity Automation Tools** → [filter_urls](https://github.com/One11on/filter_urls.sh)  
 - 💬 Ask me about **React, Django, API Development**  
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -39,14 +45,14 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,python,django,nodejs,linux,git,html,css,mongodb,mysql,php,nextjs,java" />
 </p>
-
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
