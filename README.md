@@ -27,7 +27,7 @@
 ## 🔥 About Me  
 - 🌐 Currently working on **Web Development + Web Penetration Testing**  
 - 🌱 Learning **JavaScript, React, Python, Django**  
-- 🤖 Building an **AI Chatbot using Google Generative AI**  
+- 🤖 Building an **AI Chatbot using Google Generative AI** → [filter_urls](https://github.com/One11on/AI-Chat-Bot)  
 - ⚙️ I build **Cybersecurity Automation Tools** → [filter_urls](https://github.com/One11on/filter_urls.sh)  
 - 💬 Ask me about **React, Django, API Development**  
 
