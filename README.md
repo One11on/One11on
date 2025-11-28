@@ -1,25 +1,90 @@
-<h1 align="center">Hi 👋, I'm Angish Chaudhary</h1>
-<h3 align="center">🚀 Welcome to My GitHub — Web Dev + Security</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=one11on&label=Profile%20views&color=0e75b6&style=flat" alt="one11on" /> </p>
-
-- 🔭 I’m currently working on **🌐 Web Development + Web Pentration Testing**
-
-- 🌱 I’m currently learning **JavaScript, React, Python, Django**
-
-- 🤖 AI Projects **Currently building an AI Chatbot using Google Generative AI**
-
-- ⚙️ Automation Tools for Cybersecurity [filter_urls](https://github.com/One11on/filter_urls.sh)
-
-- 💬 Ask me about **React, Django**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/angish_marar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angish_marar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/angish-chaudhary-709338250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angish-chaudhary-709338250" height="30" width="40" /></a>
+<!-- HEADER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Angish%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- TYPING ANIMATION -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Web+Pentester;JavaScript+%7C+React+%7C+Django+Learner;AI+Chatbot+Builder+(Google+Generative+AI);Cybersecurity+Automation+Tools+Creator" />
+</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=one11on&show_icons=true&locale=en&layout=compact" alt="one11on" /></p>
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=one11on&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<h1 align="center">👋 Hi, I'm <strong>Angish Chaudhary</strong></h1>
+<h3 align="center">🚀 Web Developer • Web Pentester • AI Projects</h3>
+
+---
+
+## 🔥 About Me  
+- 🌐 Currently working on **Web Development + Web Penetration Testing**  
+- 🌱 Learning **JavaScript, React, Python, Django**  
+- 🤖 Building an **AI Chatbot using Google Generative AI**  
+- ⚙️ I build **Cybersecurity Automation Tools** → [filter_urls](https://github.com/One11on/filter_urls.sh)  
+- 💬 Ask me about **React, Django, API Development**  
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://twitter.com/angish_marar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/angish-chaudhary-709338250" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,python,django,nodejs,linux,git,html,css,mongodb,mysql,php,nextjs,java" />
+</p>
+
+---
+
+## ⚡ GitHub Stats (Animated)
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=one11on&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=one11on&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+## 🚀 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one11on&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌀 Motion Divider  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=footer&animation=blink" />
+</p>
+
+---
+
+## ✨ Extra Animation (Floating Icons)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+---
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+</p>
